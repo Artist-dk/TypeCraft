@@ -13,6 +13,10 @@ TypeCraft is a web-based application designed to enhance your typing skills and 
 - Typing Speed Improvement Exercises: Sharpen your typing skills with carefully crafted exercises that cater to various skill levels. Track your progress and witness measurable improvements in your typing speed and accuracy.
 
 
+## Tech Stack
+
+**Client:** HTML, CSS, JavaScript
+
 ## Demo
 
 [Play the game live](#)
@@ -21,21 +25,14 @@ TypeCraft is a web-based application designed to enhance your typing skills and 
 
 ![Screenshot 1](https://i.pinimg.com/736x/c4/f1/57/c4f1576a51e401a051a9384ac8ce5544.jpg)
 
-## Installation
 
-Get started with TypeCraft by following these simple steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/Artist-dk/TypeCraft.git
-
-# Change directory
-cd TypeCraft
-
-# Install dependencies
-npm install
-
-```
 
 ## Author
-Digambar Kumbhar
+Hello! I am Digambar Kumbhar
+#### 🚀 About Me
+I'm a full stack developer...
+
+
+## Contact
+For inquiries or feedback, feel free to contact the project maintainer at [digambarckumbhar299@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/digambar-kumbhar/).
+
