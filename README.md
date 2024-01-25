@@ -27,7 +27,7 @@ Get started with TypeCraft by following these simple steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/TypeCraft.git
+git clone https://github.com/Artist-dk/TypeCraft.git
 
 # Change directory
 cd TypeCraft
