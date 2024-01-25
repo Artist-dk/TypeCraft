@@ -6,11 +6,11 @@ TypeCraft is a web-based application designed to enhance your typing skills and 
 
 ### Features
 
-- **Canvas Drawing:** Engage in typing exercises with the added dimension of canvas drawing. Practice typing while expressing your creativity through interactive drawing exercises.
+- Canvas Drawing: Engage in typing exercises with the added dimension of canvas drawing. Practice typing while expressing your creativity through interactive drawing exercises.
 
-- **Interactive User Interface:** Leveraging the power of DOM manipulation, TypeCraft provides an intuitive and user-friendly interface for an immersive typing experience.
+- Interactive User Interface: Leveraging the power of DOM manipulation, TypeCraft provides an intuitive and user-friendly interface for an immersive typing experience.
 
-- **Typing Speed Improvement Exercises:** Sharpen your typing skills with carefully crafted exercises that cater to various skill levels. Track your progress and witness measurable improvements in your typing speed and accuracy.
+- Typing Speed Improvement Exercises: Sharpen your typing skills with carefully crafted exercises that cater to various skill levels. Track your progress and witness measurable improvements in your typing speed and accuracy.
 
 
 ## Demo
