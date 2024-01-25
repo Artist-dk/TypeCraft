@@ -17,9 +17,7 @@ TypeCraft is a web-based application designed to enhance your typing skills and 
 
 **Client:** HTML, CSS, JavaScript
 
-## Demo
 
-[Play the game live](#)
 
 ## Screenshots
 
